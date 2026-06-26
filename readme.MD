@@ -19,6 +19,8 @@ Infraestructura desplegada en Google Cloud Platform que implementa un balanceado
 ### Escenario 3 - Balance equitativo
 ![Caso 3](caso3.png)
 
+### Pantallazo - terraform destroy
+![Terraform Destroy](terraform-destroyed.png)
 \## Arquitectura
 
 
